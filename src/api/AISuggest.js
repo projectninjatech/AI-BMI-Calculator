@@ -1,6 +1,6 @@
 export const fetchAISuggestion = async (bmi) => {
     try {
-        const response = await fetch('http://192.168.0.100:3000/generate-recipes', {
+        const response = await fetch('http://192.168.0.100:3000/generate-ai-health-tips', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
