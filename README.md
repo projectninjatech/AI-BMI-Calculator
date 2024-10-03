@@ -11,8 +11,8 @@ This React Native app allows users to calculate their Body Mass Index (BMI) and 
 
 ## Prerequisites
 
-- **Node.js** (version 12 or higher)
-- **React Native CLI** or **Expo CLI** (depending on your setup)
+- **Node.js** (version 18 or higher)
+- **React Native CLI** (depending on your setup)
 - **API Backend** running (see [Gemini-AI-Health-Tips API](https://github.com/projectninjatech/Gemini-AI-Health-Tips))
 - Android/iOS Simulator or physical device for testing
 
@@ -22,7 +22,7 @@ This React Native app allows users to calculate their Body Mass Index (BMI) and 
 
    ```bash
    git clone https://github.com/projectninjatech/AI-BMI-Calculator.git
-   cd bmi-calculator-app
+   cd ai-bmi-calculator
 
 2. Install packages:
 
